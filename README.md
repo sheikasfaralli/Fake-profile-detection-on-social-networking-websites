@@ -1,1 +1,2 @@
 # Fake-profile-detection-on-social-networking-websites
+This project focuses on detecting fake profiles on social networking websites using deep learning techniques. Fake accounts pose significant challenges including spreading misinformation, scamming users, and breaching privacy. Our goal is to harness the power of deep learning to accurately identify and mitigate the presence of fake profiles, thereby enhancing the security and authenticity of social networks.
